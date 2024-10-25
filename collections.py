@@ -8,7 +8,7 @@ os.system("cls"); print("\n")
 # set {} unordered and immutable, but Add/remove Ok. No duplicates
 # tuple () ordered and unchangeble. DUPlicates Ok, and faster
 
-# list
+# list __
 # my_list = [1, 2, 3, 3, 'bro', 4.5]
 # my_list.append(6)
 # # set
